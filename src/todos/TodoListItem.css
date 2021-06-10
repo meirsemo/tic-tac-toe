@@ -1,0 +1,30 @@
+.todo-item-container{
+    background: #fff;
+    border-radius: 8px;
+    margin-top: 8px;
+    padding: 16px;
+    position: relative;
+    box-shadow: 0 4px 8px gray;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.button-container{
+    position: absolute;
+    right: 12px;
+    bottom: 12px;
+}
+
+.completed-button{
+    border-radius: 5px;
+    font-size: 20px;
+    background:rgb(47, 255, 82);
+    margin-right: 6px;
+}
+
+.remove-button{
+    border-radius: 5px;
+    background: rgb(255, 0, 0);
+    font-size: 20px;
+}
